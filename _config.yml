@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "ko"
-title                    : "Site Title"
+title                    : "딱히 뭐 없어요"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "s.park"
@@ -94,9 +94,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "S.J PARK"
+  name             : "spark"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "I am an **sparked** person."
   location         : "Seoul, korea"
   email            :
   links:
