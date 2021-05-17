@@ -98,7 +98,7 @@ author:
   avatar           : "/assets/images/cutecat.gif" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **sparked** person."
   location         : "Seoul, South Korea"
-  email            : sparkpsalm@gmail.com
+  email            : "sparkpsalm@gmail.com"
   links:
     - label: "Email"
       icon: "sparkpsalm@gmail.com"
