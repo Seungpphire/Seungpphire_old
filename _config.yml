@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "spark"
-  avatar           : "/assets/images/cutecat.gif" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : ""
   bio              : "I am an **sparked** person."
   location         : "Seoul, South Korea"
   email            : "sparkpsalm@gmail.com"
