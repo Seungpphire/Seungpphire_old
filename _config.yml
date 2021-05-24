@@ -19,7 +19,7 @@ locale                   : "ko"
 title                    : "SparkBlog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "딱히 뭐 없어요"
+name                     : "Spark"
 description              : "An amazing website."
 url                      : "https://seungpphire.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "spark"
-  avatar           : ""
+  avatar           : "/assets/images/cutecat.gif"
   bio              : "I am an **sparked** person."
   location         : "Seoul, South Korea"
   email            : "sparkpsalm@gmail.com"
