@@ -1,0 +1,52 @@
+---
+title:  "[교육] 전자교육 임용현황"
+# excerpt: 
+
+categories: spring
+tags:
+  - [Blog, Issues, Github, Git, searchengine, SEO]
+
+toc: true
+toc_sticky: true
+ 
+date: 2021-05-31
+last_modified_at: 2021-05-31
+published : false
+---
+
+#1. 안동대학교 기준 현황> 전자교육공학과
+![image](https://user-images.githubusercontent.com/82863114/120257369-19af4a80-c2cb-11eb-99a3-784ddf629312.png)
+
+모집인원은 올해기준 55명이었고 
+
+![image](https://user-images.githubusercontent.com/82863114/120257477-4bc0ac80-c2cb-11eb-9078-4908cc5ebf26.png)
+
+
+![image](https://eee.andong.ac.kr/data/cms/2592/20201207104253_7186139.jpg)
+안타깝게도 서울은 아주 미미하게 뽑는다. 경북출신(안동대학교 출신)은 모두 어디로 지원해서 합격한걸까?  
+
+![image](https://user-images.githubusercontent.com/82863114/120258075-5a5b9380-c2cc-11eb-8dd8-57d73992ff10.png)
+
+2021년 모집인원 대비 안동대학교 합격자 비율을 나타낸 표이다. 
+전남은 아예 뽑지도 않았다. 
+
+그렇다면 년중 몇월 즈음에 선발인원을 통보하는지 알아보자. 
+원서접수는 또 언제하는지도.
+![image](https://user-images.githubusercontent.com/82863114/120267078-30ab6800-c2de-11eb-92a0-1666a275444e.png)
+
+1) 선발예정인원 공고 : 보통 10월 1-2주
+2) 원서접수 : 공고 후 3주 이내
+3) 선발시험 :  
+
+
+#2. 충남대학교 기준현황 > 전기전자통신공학교육과
+
+별로 관심이 없는 듯하다. 임용은 지역별 합격자를 분석하는 것이 필요한데, 전국 통계를 낸걸 보면 지역별 합격자를 계수하지도 않은 듯한 느낌적인 느낌. 별로 도움이 안될성 싶다.
+
+
+
+*****
+
+**References**
+* <ref>https://eee.andong.ac.kr/job/job_present</ref>
+
