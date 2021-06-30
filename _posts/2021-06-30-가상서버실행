@@ -1,0 +1,5 @@
+가상서버 실행명령
+bundle exec jekyll serve
+
+주의할 점
+현재 디렉토리를 바르게 설정

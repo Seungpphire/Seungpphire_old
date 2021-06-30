@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "SparkBlog"
+title                    : "Spark"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Spark"
-description              : "An amazing website."
+name                     : "promotion PARK"
+description              : "I love sharing caring and sleeping"
 url                      : "https://seungpphire.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "seungpphire/seungpphire.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -96,13 +96,13 @@ analytics:
 author:
   name             : "spark"
   avatar           : "/assets/images/cutecat.gif"
-  bio              : "I am an **sparked** person."
+  bio              : "사람들은 저마다 사는일에 관해서 자신만의 해답을 찾아내지"
   location         : "Seoul, South Korea"
-  email            : "sparkpsalm@gmail.com"
+  email            : "parkpromotion@daum.com"
   links:
     - label: "Email"
-      icon: "sparkpsalm@gmail.com"
-      # url: "mailto:your.name@email.com"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "parkpromotion@daum.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -277,6 +277,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true
