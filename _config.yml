@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "Spark"
+title                    : "promotion PARK"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "promotion PARK"
@@ -94,7 +94,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "spark"
+  name             : "parkpromotion"
   avatar           : "/assets/images/cutecat.gif"
   bio              : "사람들은 저마다 사는일에 관해서 자신만의 해답을 찾아내지"
   location         : "Seoul, South Korea"
