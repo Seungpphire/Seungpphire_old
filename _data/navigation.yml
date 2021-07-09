@@ -1,13 +1,16 @@
 # main links
 main:
-  - title: "전체"
+  - title: "promotion PARK"
     url: /_posts/
 
-  - title: "카테고리"
+  - title: "category"
     url: /categories/
 
-  - title: "교육카테고리"
-    url: /categories/교육
+  - title: "Education"
+    url: /categories/education/
+
+  - title: "Blog"
+    url: /categories/blog
 
   - title: "External Link"
     url: https://google.com

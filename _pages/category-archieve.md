@@ -1,5 +1,5 @@
 ---
-title: "카테고리별 포스트"
+title: "카테고리를 선택하세요"
 layout: categories
 permalink: /categories/
 author_profile: true
