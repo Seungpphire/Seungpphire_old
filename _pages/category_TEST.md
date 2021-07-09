@@ -1,5 +1,5 @@
 ---
-title: "카테고리별 포스트"
+title: "TEST"
 layout: category
 permalink: categories/TEST/
 author_profile: true

@@ -1,7 +1,7 @@
 ---
-title: "blog"
+title: "Blog"
 layout: category
-permalink: categories/blog/
+permalink: categories/Blog/
 author_profile: true
 ---
 
