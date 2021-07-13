@@ -1,8 +1,8 @@
 ---
-title: "Self-dev"
+title: "self_dev"
 layout: category
-permalink: categories/자기개발/
+permalink: categories/self_dev/
 author_profile: true
 ---
 
-파고다 영어공부 카테고리입니다.
+자기개발 카테고리입니다.

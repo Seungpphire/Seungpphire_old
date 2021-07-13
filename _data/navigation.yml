@@ -18,7 +18,7 @@ main:
     url: /categories/GIT/
 
   - title: "자기개발"
-    url: /categories/자기개발/
+    url: /categories/self_dev/
 
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
