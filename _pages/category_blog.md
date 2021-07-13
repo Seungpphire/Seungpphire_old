@@ -1,5 +1,5 @@
 ---
-title: "블로그"
+title: "Blog"
 layout: category
 permalink: categories/Blog/
 author_profile: true
