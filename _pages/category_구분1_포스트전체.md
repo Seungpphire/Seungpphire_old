@@ -4,4 +4,3 @@ layout: categories
 permalink: /_posts/
 author_profile: true
 ---
-

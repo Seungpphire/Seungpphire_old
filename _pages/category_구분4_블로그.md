@@ -3,6 +3,6 @@ title: "blog"
 layout: category
 permalink: categories/blog/
 author_profile: true
+taxonomy: blog # category name
+entries_layout: list # list (default), grid
 ---
-
-깃허브 페이지를 이용한 블로그 생성에 관한 포스트입니다.

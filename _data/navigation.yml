@@ -1,19 +1,18 @@
 # main links
 main:
-
-  - title: "Category"
+  - title: "카테고리"
     url: /categories/ 
 
   - title: "교육"
     url: /categories/교육/
 
-  - title: "블로그"
+  - title: "blog"
     url: /categories/blog/
 
-  - title: "GIT"
+  - title: GIT
     url: /categories/GIT/
 
-  - title: "자기개발"
+  - title: "self_dev"
     url: /categories/self_dev/
 
   # - title: "About"
