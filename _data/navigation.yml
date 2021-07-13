@@ -1,21 +1,21 @@
 # main links
 main:
-  - title: "promotion PARK"
+  - title: "구분1"
     url: /_posts/
 
-  - title: "Category"
+  - title: "구분2"
     url: /categories/
 
-  - title: "Education"
+  - title: "구분3"
     url: /categories/교육/
 
-  - title: "Blog"
-    url: /categories/블로그/
+  - title: "구분4"
+    url: /categories/Blog/
 
-  - title: "Git"
+  - title: "구분5"
     url: /categories/GIT/
 
-  - title: "Self-dev"
+  - title: "구분6"
     url: /categories/자기개발/
 
   # - title: "About"
