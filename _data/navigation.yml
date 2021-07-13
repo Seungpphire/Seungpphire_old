@@ -1,7 +1,12 @@
 # main links
 main:
+
+
+#  - title: "Home"
+#    url: /_posts/
+
   - title: "Home"
-    url: /_posts/
+    url: /categories/
 
   - title: "교육"
     url: /categories/교육/
