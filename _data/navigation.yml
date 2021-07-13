@@ -1,10 +1,6 @@
 # main links
 main:
 
-
-#  - title: "Home"
-#    url: /_posts/
-
   - title: "Category"
     url: /categories/ 
 
@@ -12,7 +8,7 @@ main:
     url: /categories/교육/
 
   - title: "블로그"
-    url: /categories/블로그/
+    url: /categories/blog/
 
   - title: "GIT"
     url: /categories/GIT/
