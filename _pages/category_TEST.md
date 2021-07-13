@@ -1,6 +1,6 @@
 ---
-title: "TEST"
+title: "GIT"
 layout: category
-permalink: categories/TEST/
+permalink: categories/GIT/
 author_profile: true
 ---

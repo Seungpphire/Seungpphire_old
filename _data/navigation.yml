@@ -7,19 +7,16 @@ main:
     url: /categories/
 
   - title: "Education"
-    url: /categories/edu/
+    url: /categories/교육/
 
   - title: "Blog"
-    url: /categories/blog/
+    url: /categories/블로그/
 
   - title: "Git"
-    url: /categories/git/
+    url: /categories/GIT/
 
   - title: "Self-dev"
-    url: /categories/eng/
-
-  - title: "External Link"
-    url: https://google.com
+    url: /categories/자기개발/
 
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/

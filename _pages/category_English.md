@@ -1,7 +1,7 @@
 ---
-title: "English"
+title: "Self-dev"
 layout: category
-permalink: categories/English/
+permalink: categories/자기개발/
 author_profile: true
 ---
 

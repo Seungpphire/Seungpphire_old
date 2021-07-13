@@ -1,7 +1,7 @@
 ---
 title: "교육"
 layout: category
-permalink: categories/education/
+permalink: categories/교육/
 author_profile: true
 ---
 
