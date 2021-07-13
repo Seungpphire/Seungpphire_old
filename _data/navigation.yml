@@ -1,21 +1,18 @@
 # main links
 main:
-  - title: "구분1"
+  - title: "Home"
     url: /_posts/
 
-  - title: "구분2"
-    url: /categories/
-
-  - title: "구분3"
+  - title: "교육"
     url: /categories/교육/
 
-  - title: "구분4"
-    url: /categories/Blog/
+  - title: "블로그"
+    url: /categories/블로그/
 
-  - title: "구분5"
+  - title: "GIT"
     url: /categories/GIT/
 
-  - title: "구분6"
+  - title: "자기개발"
     url: /categories/자기개발/
 
   # - title: "About"
