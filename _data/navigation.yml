@@ -6,7 +6,7 @@ main:
 #    url: /_posts/
 
   - title: "Category"
-    url: /categories/
+    url: /categories/ 
 
   - title: "교육"
     url: /categories/교육/
