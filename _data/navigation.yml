@@ -2,11 +2,11 @@
 main:
 
 
-#  - title: "Home"
-#    url: /_posts/
-
   - title: "Home"
-    url: /categories/
+    url: /_posts/
+
+#  - title: "Home2"
+#    url: /categories/
 
   - title: "교육"
     url: /categories/교육/
