@@ -1,19 +1,26 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-
-  - title: "Posts"
+  - title: "promotion PARK"
     url: /_posts/
 
-  - title: "Categories"
+  - title: "Category"
     url: /categories/
 
-  - title: "Tags"
-    url: /tags/
+  - title: "Education"
+    url: /categories/education/
+
+  - title: "Blog"
+    url: /categories/Blog/
+
+  - title: "개발"
+    url: /categories/개발/
+
+  - title: "English"
+    url: /categories/English/
 
   - title: "External Link"
     url: https://google.com
+
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
