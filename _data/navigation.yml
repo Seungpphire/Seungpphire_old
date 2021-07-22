@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: "카테고리"
-    url: /categories/ 
+  - title: "About"
+    url: /about/
 
   - title: "교육"
     url: /categories/교육/
