@@ -1,6 +1,5 @@
 ---
 title: "Promotion PARK"
-excerpt: "승진-하다(昇進하다/陞進하다)「동사」 직위의 등급이나 계급이 오르다."
 layout: archive
 
 # layouts_gallery:
@@ -18,6 +17,4 @@ permalink: /about/
 author_profile: true
 ---
 
-## [**승진-하다(昇進하다)**「동사」]
-
-: 
+<img width="80%" src=""/>
