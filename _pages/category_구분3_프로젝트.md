@@ -1,7 +1,7 @@
 ---
-title: "교육"
+title: "Project"
 layout: category
-permalink: /categories/교육/
+permalink: /categories/Project/
 author_profile: true
 # texonomy: 교육
 ---

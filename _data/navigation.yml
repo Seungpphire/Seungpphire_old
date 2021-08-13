@@ -3,17 +3,17 @@ main:
   - title: "About"
     url: /about/
 
-  - title: "교육"
-    url: /categories/교육/
+  - title: "Project"
+    url: /categories/Project/
 
   - title: "blog"
     url: /categories/blog/
 
-  - title: GIT
-    url: /categories/GIT/
+  - title: 업무
+    url: /categories/업무/
 
-  - title: "self_dev"
-    url: /categories/self_dev/
+  - title: "파고다"
+    url: /categories/파고다/
 
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/

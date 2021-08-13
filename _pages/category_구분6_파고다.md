@@ -1,7 +1,7 @@
 ---
-title: "self_dev"
+title: "world news"
 layout: category
-permalink: categories/self_dev/
+permalink: categories/파고다/
 author_profile: true
 ---
 자기개발 카테고리입니다.
