@@ -1,5 +1,5 @@
 ---
-title: "world news"
+title: "파고다"
 layout: category
 permalink: categories/파고다/
 author_profile: true
